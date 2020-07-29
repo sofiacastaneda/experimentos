@@ -1,2 +1,2 @@
 # experimentos
-jugar con códico (p5js/python)
+jugar con código (p5js/python)
