@@ -1,5 +1,5 @@
 # experimentos
-jugar con código (p5js/python)
+jugar con código 
 
 ------
 
